@@ -4,7 +4,7 @@
     segundos = 60
     decada = 10
     minhaIdade = 22
-    meusSegundos = 1232000000
+    meusSegundos = 1232000000.0
 
 puts
 puts "Quantas horas há em um ano?"
