@@ -26,7 +26,7 @@ puts " Eu pretendo comer chocolate até o final da minha vida", "em quantidades 
 puts
 puts
 puts "Se minha idade é de 1232 milhões de segundos, qual é minha idade em anos?"
-meusSegundos = 1232000000
+    meusSegundos = 1232000000
 puts 
 puts " Em anos eu tenho aproximadamente: " + (meusSegundos/dia/horas/minutos/segundos).to_s + " anos"
 
