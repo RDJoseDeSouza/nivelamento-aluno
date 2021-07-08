@@ -16,13 +16,13 @@ puts
 puts "Qual é a sua idade em segundos?"
     minhaIdade = 22
 puts 
-puts "Se minha idade é " + (minhaIdade).to_s + " anos, logo em sengundos será: "
+puts "Se minha idade é " + (minhaIdade).to_s + " anos, logo em segundos será: "
 puts " " + (minhaIdade*dia*horas*minutos*segundos).to_s + " segundos"
 puts
 puts
 puts "Quantos chocolates você pretende comer na vida?"
 puts 
-puts " Eu pretendo comer chocolate até o final da minha vida", "em quantidades que só dinheiro irá limitar ou as doenças"
+puts " Eu pretendo comer chocolate até o final da minha vida", " em quantidades que só dinheiro irá limitar ou as doenças"
 puts
 puts
 puts "Se minha idade é de 1232 milhões de segundos, qual é minha idade em anos?"
