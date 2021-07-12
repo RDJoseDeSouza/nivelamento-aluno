@@ -5,13 +5,13 @@ def calcular_horas_em_anos (anos)
     return horas
 end
 anos = 30
-puts "A quantidade de horas em " + anos.to_s + " anos é: " + calcular_horas_em_anos(anos).to_s 
+puts "A quantidade de horas em " + anos.to_s + " anos é: " + calcular_horas_em_anos(anos).to_s + " horas."
 puts
 anos = 20
-puts "A quantidade de horas em " + anos.to_s + " anos é: " + calcular_horas_em_anos(anos).to_s 
+puts "A quantidade de horas em " + anos.to_s + " anos é: " + calcular_horas_em_anos(anos).to_s + " horas."
 puts
 anos = 13
-puts "A quantidade de horas em " + anos.to_s + " anos é: " + calcular_horas_em_anos(anos).to_s + " horas"
+puts "A quantidade de horas em " + anos.to_s + " anos é: " + calcular_horas_em_anos(anos).to_s + " horas."
 
 
 puts
