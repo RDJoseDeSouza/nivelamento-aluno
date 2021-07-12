@@ -69,6 +69,3 @@ puts "A quantidade de anos em: " + segundos.to_s + " segundos é de " + calcular
 puts
 segundos = 1545264000.0
 puts "A quantidade de anos em: " + segundos.to_s + " segundos é de " + calcular_segundos_em_anos(segundos).to_s + " anos!"
-
-
-
