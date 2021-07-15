@@ -42,7 +42,7 @@ if segundo_numero != primeiro_numero
     end
 
 else
-  #puts segundo_numero
+  puts segundo_numero
 
     
 end
