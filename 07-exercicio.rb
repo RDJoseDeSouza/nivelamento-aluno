@@ -36,10 +36,4 @@ else
     puts 'chute invalido caractere'
 
     
-
-
-       
-    
-
-    
 end
