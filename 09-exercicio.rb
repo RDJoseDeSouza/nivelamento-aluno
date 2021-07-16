@@ -2,7 +2,7 @@
 numero = rand(0..100)
 #puts "(" + numero.to_s + ")"
 puts "Jogo da adivinhaçao "
-puts "Tente acertar o numero que o computador adivinhou entro 0 e 100!"
+puts "Tente acertar o numero que o computador adivinhou entre 0 e 100!"
 print "digite o número: "
 chute = gets.chomp
 #verificar_classe = chute
