@@ -31,7 +31,9 @@ end
 def exibe_array(array)
     for n in (0..array.size-1)
         print array[n]
+        if n < array.size-1
         print ", "
+        end
     end
     puts
 end
@@ -46,4 +48,5 @@ posicao = gets.chomp.to_i
 
 numeros = remove_da_posicao(numeros,posicao)
 exibe_array(numeros)
+print numeros
 
