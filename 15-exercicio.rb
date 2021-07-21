@@ -82,5 +82,7 @@ def embaralhador(baralho)
 end
 puts "Baralho ANTES:"
 exibe_array(baralho)
+
 puts "Baralho DEPOIS:"
 exibe_array(embaralhador(baralho))
+
