@@ -5,7 +5,7 @@
 def posicao_no_array(array, verificar_numero)
     for posicao in (0..array.size-1)
         if array[posicao] == verificar_numero
-            return posicao
+            return true
             break
         end
 

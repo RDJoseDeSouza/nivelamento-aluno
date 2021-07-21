@@ -33,7 +33,7 @@ def insere_no_array(array, valor, posicao)
 end
 
 numeros = [1, 3, 11, 12, 13, 14, 10, -1]
-puts numeros.size
+# puts numeros.size
 print "Digite uma posiçao para adicionar no array: "
 posicao = gets.chomp
 posicao = posicao.to_i
