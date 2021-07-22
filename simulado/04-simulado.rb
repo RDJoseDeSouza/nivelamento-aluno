@@ -11,7 +11,7 @@ def imprimir_tabela(numero_inteiro)
     colunas = 0
     if numero_inteiro <= 0
         puts
-        return nil
+        return "Argumento Invalido"
     else
         until linhas == numero_inteiro +1
         
