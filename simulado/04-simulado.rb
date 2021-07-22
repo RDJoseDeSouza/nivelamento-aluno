@@ -10,8 +10,7 @@ def imprimir_tabela(numero_inteiro)
     repetiçoes = 1
     colunas = 0
     if numero_inteiro <= 0
-        puts
-        return "Argumento Invalido"
+        puts "Argumento Invalido"
     else
         until linhas == numero_inteiro +1
         
